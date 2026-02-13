@@ -1,4 +1,4 @@
-# Parcialito Turistas: Comunicación de un diseño
+# Parcialito Vehículos: Comunicación de un diseño
 
 ## Enunciado
 
