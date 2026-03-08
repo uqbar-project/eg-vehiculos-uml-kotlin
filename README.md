@@ -25,6 +25,11 @@ Se recomienda
 
 ## Resolución
 
+### Integrantes
+
+- Integrante 1 (completar **solo usuario de github**)
+- Integrante 2 (completar **solo usuario de github**)
+
 ### Punto 1
 [Link a la solución]()
 
