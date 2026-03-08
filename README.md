@@ -17,7 +17,7 @@ Se recomienda
 ## Modalidad de entrega
 
 - Deben resolverlo de a 2 personas
-- Debe adjuntar archivos en formato pdf / png a este mismo repositorio
+- Debe adjuntar archivos en formato **jpg / png** a este mismo repositorio (**no adjunten links externos, deben subir los archivos dentro del repositorio**(
 - En este mismo README debe escribir en formato markdown los links a los puntos 1 y 2 y desarrollar el punto 3
 - Cualquier duda sobre el formato markdown tienen [esta página de referencia](https://www.markdownguide.org/cheat-sheet/)
 - En [esta página](https://algo2.uqbar-project.org/material/software) tenés el software que podés utilizar para hacer los diagramas, o bien sacale una foto a tu solución en lápiz y papel
