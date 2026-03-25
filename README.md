@@ -30,15 +30,18 @@ Se recomienda
 - Integrante 2 (completar **solo usuario de github**)
 
 ### Punto 1
-[Link a la solución]()
 
-> Adjuntar archivos en formato **jpg / png** a este mismo repositorio (**no adjunten links externos, deben subir los archivos dentro del repositorio**)
+- [Link a la solución]()
+
+> Adjuntar un archivo en formato **jpg / png** a este mismo repositorio (**no adjunten links externos, deben subir los archivos dentro del repositorio**)
 
 ### Punto 2
-[Link a la solución]()
 
-> Adjuntar archivos en formato **jpg / png** a este mismo repositorio (**no adjunten links externos, deben subir los archivos dentro del repositorio**)
+- [Link a la solución carga agrupada de material peligroso]()
+- [Link a la solución caja estándar en una ruta de ripio]()
+
+> Adjuntar los archivos en formato **jpg / png** a este mismo repositorio (**no adjunten links externos, deben subir los archivos dentro del repositorio**)
 
 ### Punto 3
 
-Desarrollar...
+Desarrollar en este mismo lugar...
